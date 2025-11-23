@@ -19,8 +19,8 @@ This guide assumes you have an NVIDIA GPU and are using Ubuntu.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/wakodepranav2005-git/local_rag_project.git
-cd local_rag_project
+git clone https://github.com/pranav-wakode/local-rag-project.git
+cd local-rag-project
 ```
 
 ### 2. Create and Activate Python 3.11 Environment
